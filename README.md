@@ -43,8 +43,7 @@ Implementation of Naive Bayes for predicting if a mushroom is edible or poisonou
 - Model implementation and training
 - Performance evaluation
 - Key visualizations:
-  - 
-  - 
+  - Confusion Matrix
 
 
 ---
